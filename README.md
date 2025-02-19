@@ -14,8 +14,8 @@ Enter queries related to DevVibe’s content, and the chatbot retrieves and gene
 Modify the knowledge base for better customization.
 Details
 # Project Name: RAG-Based Chatbot for DevVibe
-.Language: Python \n
-.LLM Model: Falcon
-.Frameworks: LangChain, Hugging Face Transformers
-.Libraries: FAISS, PyTorch
-.Dataset: Devvibe PDF data
+Language: Python 
+LLM Model: Falcon
+Frameworks: LangChain, Hugging Face Transformers
+Libraries: FAISS, PyTorch
+Dataset: Devvibe PDF data
